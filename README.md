@@ -1,4 +1,4 @@
-![CoderHub Logo](https://user-images.githubusercontent.com/81147447/211190898-68401dfe-7669-4bdb-af9b-0a8d53f2bfa7.png)
+![CoderHub Logo](https://user-images.githubusercontent.com/81147447/211191094-fb44f368-ab66-4e99-a3d2-eaa21ff006b9.png)
 
 # CoderHub Solutions
 
