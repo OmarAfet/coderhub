@@ -1,3 +1,5 @@
+![CoderHub Logo](https://user-images.githubusercontent.com/81147447/211190898-68401dfe-7669-4bdb-af9b-0a8d53f2bfa7.png)
+
 # CoderHub Solutions
 
 This repository contains my solutions to various coding challenges from CoderHub. I have spent a lot of time working on these challenges and am proud to share my work with others.
