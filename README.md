@@ -18,9 +18,7 @@ By starring this repository, you can show your support for the time and effort t
 
 # About me - عني
 
-- Profile: **https://profile.satr.codes/m7ilan/main**
-- Discord: M7ilan#5185
-- CoderHub Discord Server: **https://discord.gg/UwSd5Pd2RC**
+- Profile: **https://profile.satr.codes/omarafet/main**
 
 #
 
