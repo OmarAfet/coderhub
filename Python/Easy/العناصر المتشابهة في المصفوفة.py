@@ -1,8 +1,7 @@
 
-# Creator: M7ilan
-# https://profile.satr.codes/m7ilan/public/overview
-# Discord: M7ilan#5185
-# https://github.com/M7ilan
+# Creator: OmarAfet
+# https://profile.satr.codes/OmarAfet/public/overview
+# https://github.com/OmarAfet
 
 def get_duplicate_elements(arr: list[int]) -> list[int]:
     x = []

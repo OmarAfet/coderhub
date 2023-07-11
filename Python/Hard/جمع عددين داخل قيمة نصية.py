@@ -1,8 +1,7 @@
 
-# Creator: M7ilan
-# https://profile.satr.codes/m7ilan/public/overview
-# Discord: M7ilan#5185
-# https://github.com/M7ilan
+# Creator: OmarAfet
+# https://profile.satr.codes/OmarAfet/public/overview
+# https://github.com/OmarAfet
 
 def addStrNums(num1: str, num2: str) -> str:
     if not num1.isdigit() or not num2.isdigit():
