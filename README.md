@@ -18,7 +18,7 @@ By starring this repository, you can show your support for the time and effort t
 
 # About me - عني
 
-- Profile: **https://profile.satr.codes/omarafet/main**
+- Profile: **https://profile.satr.codes/omarafet/public/overview**
 
 #
 
