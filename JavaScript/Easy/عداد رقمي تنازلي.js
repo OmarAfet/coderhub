@@ -7,5 +7,9 @@ https://github.com/OmarAfet
 */
 
 function countDown(number) {
-	// write your code here
+	let x = [];
+	for (let i = number; i >= 0; i--) {
+		x.push(i);
+	}
+	return x.join(" ");
 }
